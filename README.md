@@ -1,2 +1,22 @@
 # responsivescreens
 CSS dimensions for responsive screens
+
+<p>
+  
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 300px) {
+}
+
+/* SMARTPHONES LANDSCAPE */
+@media only screen and (min-width: 480px) {
+}
+
+/* TABLETS PORTRAIT */
+@media only screen and (min-width: 768px) {
+}
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 1024px) {
+}
+
+</p>
